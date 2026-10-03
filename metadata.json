@@ -1,0 +1,6 @@
+{
+  "name": "WhalePulse Crypto Radar",
+  "description": "ربات هوشمند ردیابی نهنگ‌ها و کشف آلت‌کوین‌های با پتانسیل پامپ یا دامپ شدید با تحلیل آنچین و هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
